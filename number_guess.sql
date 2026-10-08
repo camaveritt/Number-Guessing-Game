@@ -1,3 +1,5 @@
+/* Run to create database and tables */
+
 CREATE DATABASE number_guess;
 \c number_guess
 
